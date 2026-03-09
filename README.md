@@ -25,7 +25,7 @@
 ```bash
 pip3 install drain3
 ```
-
+```
 ### 2. 數據採集
 
 使用管理員權限執行 `system.py` 以讀取系統日誌：
@@ -61,7 +61,5 @@ python3 parse_logs.py
 3. **System Monitoring**: 統計系統頻發事件，優化運維效率。
 
 ---
-
-*本專案為學術研究用途，開發於國立臺灣科技大學 (NTUST)。*
 
 ```
