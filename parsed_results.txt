@@ -1,0 +1,52 @@
+Template_ID  | Parsed_Template
+--------------------------------------------------------------------------------
+ID_1         | Mar 8 18:55:58 ubuntu systemd[1]: Started Firmware update daemon.
+ID_2         | Mar 8 18:55:59 ubuntu ModemManager[642]: <info> Couldn't check support for device '/sys/devices/pci0000:00/0000:00:11.0/0000:02:01.0': not supported by any plugin
+ID_3         | Mar 8 18:56:01 ubuntu gnome-software[5498]: shell-extensions did not set error for gs_plugin_refresh
+ID_4         | Mar 8 18:56:02 ubuntu gnome-session[4808]: gnome-session-binary[4808]: WARNING: Application 'gnome-initial-setup-copy-worker.desktop' killed by signal 15
+ID_5         | Mar 8 18:56:02 ubuntu gnome-session-binary[4808]: WARNING: Application 'gnome-initial-setup-copy-worker.desktop' killed by signal 15
+ID_6         | Mar 8 18:56:02 ubuntu pulseaudio[4965]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+ID_7         | Mar 8 18:56:04 ubuntu PackageKit: get-updates transaction /1_dccbdeee from uid 1000 finished with success after 2112ms
+ID_8         | Mar 8 18:56:04 ubuntu systemd[1]: Started Wait until snapd is fully seeded.
+ID_1         | Mar 8 <*> ubuntu systemd[1]: <*> <*> <*> <*>
+ID_1         | Mar 8 <*> ubuntu systemd[1]: <*> <*> <*> <*>
+ID_8         | Mar 8 18:56:04 ubuntu systemd[1]: <*> <*> <*> <*> <*> <*> <*>
+ID_8         | Mar 8 18:56:04 ubuntu systemd[1]: <*> <*> <*> <*> <*> <*> <*>
+ID_9         | Mar 8 18:56:04 ubuntu systemd[1]: Startup finished in 4.166s (kernel) + 1min 41.016s (userspace) = 1min 45.183s.
+ID_10        | Mar 8 18:56:04 ubuntu org.gnome.Shell.desktop[4956]: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000008 (Ubuntu Sof)
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_11        | Mar 8 18:56:16 ubuntu dbus-daemon[4804]: [session uid=1000 pid=4804] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.66' (uid=1000 pid=5623 comm="/usr/bin/gnome-terminal.real " label="unconfined")
+ID_12        | Mar 8 18:56:16 ubuntu systemd[4779]: Starting GNOME Terminal Server...
+ID_13        | Mar 8 18:56:16 ubuntu dbus-daemon[4804]: [session uid=1000 pid=4804] Successfully activated service 'org.gnome.Terminal'
+ID_12        | Mar 8 18:56:16 ubuntu systemd[4779]: <*> GNOME Terminal <*>
+ID_14        | Mar 8 18:56:40 ubuntu gnome-software-service.desktop[5703]: Unable to acquire bus name 'org.gnome.Software'
+ID_15        | Mar 8 18:56:43 ubuntu update-notifier.desktop[5701]: /var/lib/dpkg/lock:
+ID_16        | Mar 8 18:56:43 ubuntu gnome-shell[4956]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.69/org/ayatana/NotificationItem/software_update_available
+ID_16        | Mar 8 18:56:43 ubuntu gnome-shell[4956]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem <*>
+ID_17        | Mar 8 18:56:48 ubuntu check-new-relea[5713]: GtkDialog mapped without a transient parent. This is discouraged.
+ID_18        | Mar 8 18:56:52 ubuntu update-notifier.desktop[5701]: /usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+ID_19        | Mar 8 18:56:52 ubuntu update-notifier.desktop[5701]: from gi.repository import Gtk
+ID_3         | Mar 8 <*> ubuntu gnome-software[5498]: shell-extensions did not set error for gs_plugin_refresh
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_11        | Mar 8 <*> ubuntu dbus-daemon[4804]: [session uid=1000 pid=4804] Activating via systemd: service <*> <*> requested by <*> (uid=1000 <*> <*> " label="unconfined")
+ID_20        | Mar 8 18:57:21 ubuntu systemd[4779]: Starting Virtual filesystem metadata service...
+ID_13        | Mar 8 <*> ubuntu dbus-daemon[4804]: [session uid=1000 pid=4804] Successfully activated service <*>
+ID_20        | Mar 8 18:57:21 ubuntu systemd[4779]: <*> Virtual filesystem metadata <*>
+ID_21        | Mar 8 18:58:25 ubuntu gnome-software[5498]: failed to rescan: Failed to parse /usr/share/applications/python2.7.desktop file: cannot process file of type application/x-desktop
+ID_22        | Mar 8 18:58:31 ubuntu gnome-software[5498]: Only 0 apps for recent list, hiding
+ID_7         | Mar 8 <*> ubuntu PackageKit: <*> transaction <*> from uid 1000 finished with success after <*>
+ID_23        | Mar 8 18:59:24 ubuntu anacron[577]: Job `cron.daily' started
+ID_24        | Mar 8 18:59:24 ubuntu anacron[8238]: Updated timestamp for job `cron.daily' to 2026-03-08
+ID_25        | Mar 8 18:59:24 ubuntu cracklib: no dictionary update necessary.
+ID_23        | Mar 8 <*> ubuntu anacron[577]: Job `cron.daily' <*>
+ID_26        | Mar 8 18:59:48 ubuntu update-notifier.desktop[5701]: WARNING:root:Error loading .desktop file /usr/share/applications/vim.desktop: constructor returned NULL
+ID_23        | Mar 8 <*> ubuntu anacron[577]: Job <*> <*>
+ID_24        | Mar 8 <*> ubuntu <*> Updated timestamp for job <*> to 2026-03-08
+ID_23        | Mar 8 <*> ubuntu anacron[577]: Job <*> <*>
