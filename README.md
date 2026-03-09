@@ -1,6 +1,3 @@
-
-
-markdown
 # Automated Log Collection and Parsing with Drain3
 
 本專案實作了一個自動化的日誌分析流水線（Pipeline），能夠從 Linux 系統環境中提取原始日誌，並利用學術界廣泛使用的 **Drain3** 演算法進行結構化解析。此工具特別適用於日誌異常檢測（Anomaly Detection）的預處理階段。
@@ -59,7 +56,5 @@ python3 parse_logs.py
 1. **Log Clustering**: 自動歸類海量日誌。
 2. **Anomaly Detection**: 基於 Template ID 序列進行異常行為預測。
 3. **System Monitoring**: 統計系統頻發事件，優化運維效率。
-
----
 
 ```
