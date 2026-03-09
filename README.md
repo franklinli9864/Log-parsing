@@ -1,6 +1,6 @@
 
 
-```markdown
+markdown
 # Automated Log Collection and Parsing with Drain3
 
 本專案實作了一個自動化的日誌分析流水線（Pipeline），能夠從 Linux 系統環境中提取原始日誌，並利用學術界廣泛使用的 **Drain3** 演算法進行結構化解析。此工具特別適用於日誌異常檢測（Anomaly Detection）的預處理階段。
@@ -25,7 +25,7 @@
 ```bash
 pip3 install drain3
 ```
-```
+
 ### 2. 數據採集
 
 使用管理員權限執行 `system.py` 以讀取系統日誌：
