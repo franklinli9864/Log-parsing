@@ -24,7 +24,6 @@
 請確保已安裝 `drain3` 庫：
 ```bash
 pip3 install drain3
-
 ```
 
 ### 2. 數據採集
@@ -64,8 +63,5 @@ python3 parse_logs.py
 ---
 
 *本專案為學術研究用途，開發於國立臺灣科技大學 (NTUST)。*
-
-
-你可以直接將這段內容存入你的 `README.md` 並 `git commit` 上傳！這會讓你的 GitHub 專案看起來非常專業。
 
 ```
